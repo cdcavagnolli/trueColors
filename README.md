@@ -1,4 +1,4 @@
 # True Colors
-Um app que dá o codigo hexadecimal para valores RGB ou os valores RGB para um codigo hexadecimal especifico.
+An app that gives the hexadecimal code for RGB values or the RGB values for a specific hexadecimal code.
 
 ![alt text](https://github.com/cdcavagnolli/trueColors/blob/master/trueColors.gif?raw=true)
